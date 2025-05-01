@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Central Park",
+    "description": "A large public park in the city center with walking trails and playgrounds.",
+    "latitude": 40.785091,
+    "longitude": -73.968285,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Riverside Green",
+    "description": "A peaceful green space along the river with picnic areas and bike paths.",
+    "latitude": 40.800000,
+    "longitude": -73.970000,
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Maplewood Park",
+    "description": "A neighborhood park with sports fields and a community garden.",
+    "latitude": 40.770000,
+    "longitude": -73.980000,
+    "rating": 4.0
+  }
+]
